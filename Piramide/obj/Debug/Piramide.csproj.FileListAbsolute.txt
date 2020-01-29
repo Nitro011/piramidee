@@ -1,0 +1,6 @@
+C:\Users\Concentra-User\source\repos\Piramide\Piramide\bin\Debug\Piramide.exe.config
+C:\Users\Concentra-User\source\repos\Piramide\Piramide\bin\Debug\Piramide.exe
+C:\Users\Concentra-User\source\repos\Piramide\Piramide\bin\Debug\Piramide.pdb
+C:\Users\Concentra-User\source\repos\Piramide\Piramide\obj\Debug\Piramide.csprojAssemblyReference.cache
+C:\Users\Concentra-User\source\repos\Piramide\Piramide\obj\Debug\Piramide.exe
+C:\Users\Concentra-User\source\repos\Piramide\Piramide\obj\Debug\Piramide.pdb
